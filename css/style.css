@@ -1,0 +1,18 @@
+
+
+#home {
+    background-image: url("../images/bg.jpg");
+    height: 100vh;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home .home-layer {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#home .home-layer .home-content h1{
+    font-size: 60px;
+}
+
+
